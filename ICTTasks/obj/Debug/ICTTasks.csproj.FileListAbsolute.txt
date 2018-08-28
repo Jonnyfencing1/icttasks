@@ -1,0 +1,6 @@
+F:\ICTTasks\ICTTasks\bin\Debug\ICTTasks.exe
+F:\ICTTasks\ICTTasks\bin\Debug\ICTTasks.pdb
+F:\ICTTasks\ICTTasks\obj\Debug\ICTTasks.csprojResolveAssemblyReference.cache
+F:\ICTTasks\ICTTasks\obj\Debug\ICTTasks.csproj.CoreCompileInputs.cache
+F:\ICTTasks\ICTTasks\obj\Debug\ICTTasks.exe
+F:\ICTTasks\ICTTasks\obj\Debug\ICTTasks.pdb
